@@ -1,0 +1,4 @@
+MD5	File
+60bd4aa75ced93ab0fccad0c2bf69f14	3M-february-2018.txt.gz
+b7b8c11ff33bb915787570eba24a629c	737K-april-2014_rc.txt
+f62a276e262fdd85262a889d0f48556b	737K-august-2016.txt
