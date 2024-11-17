@@ -57,12 +57,25 @@ ssh username@m3-login3.massive.org.au
 ```
 If you use a Windows 10 or Windows 11 computer, the SSH command should have been inbuilt in Windows. This command is inbuilt in macOS and (virtually all) Linux.
 
-5. Use a software tool or a database
-   -----------------------------
+5.Use a software tool or a database
+-----------------------------
 If you have done all steps above, you will have two _symbolic links_ in your home directory:
 ```ws32``` and ```ws32_scratch2```. To setup your environment for running software tools, you need to execute a shell script using the ```source``` command:
 ```
 source ~/ws32_scratch2/Shared/welcome.bash
 ```
 
+For using the installed tools, you can find examples in ```~/ws32_scratch2/Shared/Examples```:
+
+```
+cd ~/ws32_scratch2/Shared/Examples
+ls -l
+```
+
+You can also find the databases in ```~/ws32_scratch2/Shared/Database```:
+
+```
+cd ~/ws32_scratch2/Shared/Database
+ls -l
+```
 
