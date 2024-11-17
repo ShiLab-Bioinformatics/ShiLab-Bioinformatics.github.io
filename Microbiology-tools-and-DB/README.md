@@ -37,6 +37,11 @@ The software tools are provided in the Command-Line Interface (CLI). There are a
 ### 4.1.Using the terminal service on the M3 Desktop website
 Virtual terminals can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/), so that to access the M3 cluster.
 
+![image](https://github.com/user-attachments/assets/c4a53789-23a0-4ffe-8792-143d93add686)
+
+![image](https://github.com/user-attachments/assets/093137d3-5062-4b16-bec5-3f937fd18e08)
+
+
 ### 4.2.Using the desktop service on the M3 Desktop website
 Virtual desktops can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/). The terminal app in the virtual desktop gives access to the M3 cluster.
 
