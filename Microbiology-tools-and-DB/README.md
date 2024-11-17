@@ -35,23 +35,22 @@ On the next page, you can select the ws32 project and submit your application fo
 The software tools are provided in the Command-Line Interface (CLI). There are a few ways you can use to access the CLI of the M3 cluster. 
 
 ### 4.1.Using the terminal service on the M3 Desktop website
-Virtual terminals can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/), so that to access the M3 cluster.
+Virtual terminals can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/), so that to access the M3 cluster. You need to first click "Launch" as in the figure below. After a terminal is created, you can then click "connect".
 
-![image](https://github.com/user-attachments/assets/c4a53789-23a0-4ffe-8792-143d93add686)
-
-![image](https://github.com/user-attachments/assets/093137d3-5062-4b16-bec5-3f937fd18e08)
-
+![image](https://github.com/user-attachments/assets/9b7eab45-de1a-406e-8a57-fea84e952703)
 
 ### 4.2.Using the desktop service on the M3 Desktop website
-Virtual desktops can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/). The terminal app in the virtual desktop gives access to the M3 cluster.
+Virtual desktops can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/). The terminal app in the virtual desktop gives access to the M3 cluster. You need to first click "Launch" as in the figure below. After a virtual desktop is created, you can then click "connect" to start a CLI. 
 
 ![image](https://github.com/user-attachments/assets/5bb174ec-b0bf-4886-9862-8f709c9e8d27)
+
+After connected to the virtual desktop, you can then run the terminal app to start a CLI.
 
 ![image](https://github.com/user-attachments/assets/7de90c13-66a3-4830-9bff-aa927897d730)
 
 
 ### 4.3.SSH to the M3 login computer
-You can SSH to the M3 login computer from a macOS, Windows or Linux computer. 
+You can SSH to the M3 login computer from a macOS, Windows or Linux computer to start a CLI. 
 ```
 ssh username@m3-login3.massive.org.au
 ```
