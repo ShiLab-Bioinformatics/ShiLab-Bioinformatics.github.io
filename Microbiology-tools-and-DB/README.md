@@ -34,10 +34,10 @@ On the next page, you can select the ws32 project and submit your application fo
 -----------------------
 The software tools are provided in the Command-Line Interface (CLI). There are a few ways you can use to access the CLI of the M3 cluster. 
 
-### Using the terminal service on the M3 Desktop website
+### 4.1.Using the terminal service on the M3 Desktop website
 Virtual terminals can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/), so that to access the M3 cluster.
 
-### Using the desktop service on the M3 Desktop website
+### 4.2.Using the desktop service on the M3 Desktop website
 Virtual desktops can be created on the [M3 Desktop website](https://m3-desktop.erc.monash.edu/). The terminal app in the virtual desktop gives access to the M3 cluster.
 
 ![image](https://github.com/user-attachments/assets/5bb174ec-b0bf-4886-9862-8f709c9e8d27)
@@ -45,7 +45,7 @@ Virtual desktops can be created on the [M3 Desktop website](https://m3-desktop.e
 ![image](https://github.com/user-attachments/assets/7de90c13-66a3-4830-9bff-aa927897d730)
 
 
-### SSH to the M3 login computer
+### 4.3.SSH to the M3 login computer
 You can SSH to the M3 login computer from a macOS, Windows or Linux computer. 
 ```
 ssh username@m3-login3.massive.org.au
@@ -53,5 +53,11 @@ ssh username@m3-login3.massive.org.au
 If you use a Windows 10 or Windows 11 computer, the SSH command should have been inbuilt in Windows. This command is inbuilt in macOS and (virtually all) Linux.
 
 5. Use a software tool or a database
------------------------------
+   -----------------------------
+If you have done all steps above, you will have two _symbolic links_ in your home directory:
+```ws32``` and ```ws32_scratch2```. To setup your environment for running software tools, you need to execute a shell script using the ```source``` command:
+```
+source ~/ws32_scratch2/Shared/welcome.bash
+```
+
 
