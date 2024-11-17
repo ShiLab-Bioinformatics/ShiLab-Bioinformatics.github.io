@@ -73,3 +73,7 @@ cd ~/ws32_scratch2/Shared/Database
 ls -l
 ```
 
+
+6.Use the computational resources in M3
+-----------------------------
+Many analyses are hungry to computational resources. That is to say, they need large amounts of memory, many CPUs and/or GPUs. You need to send the job to the SLURM task management system to utilise the large amounts of resources in M3 for running these analyses. The manual can be found in [M3 SLURM users manual](https://docs.massive.org.au/M3/slurm/slurm-overview.html.
