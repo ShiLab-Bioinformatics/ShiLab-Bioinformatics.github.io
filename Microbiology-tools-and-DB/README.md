@@ -14,7 +14,7 @@ After creating your M3 user account, you need to create a new project for runnin
 
 You should to indicate in the project description that this project is for using the software tools and databases in the _ws32_ project, which is run by Prof Wei Shi and Yang Liao. If you would like to let Yang Liao to assist you to maintain the data and manage the tasks, you can also indicate that you want to have Yang as a member of this new project.
 
-![image](https://github.com/user-attachments/assets/c8fdaea4-600c-41e2-8b2b-2b00485c67b6)
+![Create a new M3 project](https://github.com/user-attachments/assets/c8fdaea4-600c-41e2-8b2b-2b00485c67b6)
 
 
 
