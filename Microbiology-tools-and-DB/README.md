@@ -23,6 +23,7 @@ You need to join the ws32 project for using the software tools and databases. Bu
 ![image](https://github.com/user-attachments/assets/94d9a7dd-f01f-4a72-bc55-7361c417d0a3)
 
 Then you can search for the ws32 project.
+
 ![image](https://github.com/user-attachments/assets/436caa09-b6ec-402c-a3e3-f7259053f17e)
 
 On the next page, you can select the ws32 project and submit your application for joining it. This application will be reviewed by Wei and Yang ASAP. 
