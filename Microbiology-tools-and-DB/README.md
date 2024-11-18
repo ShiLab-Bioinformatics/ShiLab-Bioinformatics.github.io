@@ -2,11 +2,11 @@
 
 1.About this document
 ----------------------
-This document provides instructions for using the microbiology software tools and databases installed in the M3 computer cluster. You need to create an M3 account, apply for your own M3 project, then you can connect to the M3 cluster and run your analyses using software tools and databases in it. The steps are detailed in sections below.
+This document provides instructions for using the microbiology software tools and databases installed on the M3 computer cluster. You need to create an M3 account, apply for your own M3 project, then you can connect to the M3 cluster and run your analyses using software tools and databases on it. The steps are detailed in sections below.
 
 2.Create a new M3 account
 ----------------------
-Every user of the microbiology tools and databases in the M3 computer cluster needs their own M3 account. You can create an M3 account using this website:
+Every user of the microbiology tools and databases on the M3 computer cluster needs their own M3 account. You can create an M3 account using this website:
   [Create an M3 account](https://hpc.erc.monash.edu.au/karaage/aafbootstrap). 
 You need to login using your Monash account before you can create an M3 account on this webpage.
 
