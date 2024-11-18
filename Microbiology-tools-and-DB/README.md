@@ -1,6 +1,6 @@
 0.About this document
 ----------------------
-This document provides instructions for using the microbiology software tools and databases installed in the M3 computer cluster.
+This document provides instructions for using the microbiology software tools and databases installed in the M3 computer cluster. You need to create an M3 account, apply for your own M3 project, then you can connect to the M3 cluster and run your analyses using software tools and databases in it. The steps are detailed in sections below.
 
 1.Create a new M3 account
 ----------------------
