@@ -48,7 +48,7 @@ After connected to the virtual desktop, you can then run the terminal app to sta
 ![image](https://github.com/user-attachments/assets/7de90c13-66a3-4830-9bff-aa927897d730)
 
 ### 5.3.SSH to the M3 login computer
-You can SSH to the M3 login computer from a macOS, Windows or Linux computer to start a CLI. 
+You can SSH to the M3 login computer from a macOS, Windows or Linux computer to start a CLI. You need to use the username and password that were created in Section 2.
 ```
 ssh username@m3-login3.massive.org.au
 ```
