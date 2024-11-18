@@ -8,6 +8,8 @@ Every user of the mirobiology tools and databases in the M3 computer cluster nee
   [Create an M3 account](https://hpc.erc.monash.edu.au/karaage/aafbootstrap). 
 You need to login using your Monash account.
 
+You will be required to select a username in the M3 computer and create a password for it. You need to keep this info for 
+
 More details are provided on [the M3 users manual](https://docs.massive.org.au/M3/requesting-an-account.html).
 
 2.Create a new M3 project
