@@ -52,7 +52,7 @@ You can SSH to the M3 login computer from a macOS, Windows or Linux computer to 
 ```
 ssh username@m3-login3.massive.org.au
 ```
-If you use a Windows 10 or Windows 11 computer, the ```SSH``` command should have been inbuilt in Windows. This command is also inbuilt in macOS and (virtually all) Linux distrubutions.
+If you use a Windows 10 or Windows 11 computer, the ```SSH``` command should have been inbuilt in Windows. This command is also inbuilt in macOS and virtually all Linux distrubutions.
 
 6.Use a software tool or a database
 -----------------------------
