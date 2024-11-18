@@ -25,7 +25,7 @@ Once your application is submitted, the eResearch team will review your applicat
 
 4.Joining the ws32 project
 ----------------------
-You need to join the ```ws32``` project for using the software tools and databases. But you can only join this project __after__ your new M3 project s successfully created, otherwise your default project will be set to ```ws32```, which does not have any CPU hour allowance. You can join ```ws32``` in the _Join existing projects_ link on [the homepage of the HPC ID system](https://hpc.erc.monash.edu.au/karaage/).
+You need to join the ```ws32``` project for using the software tools and databases. But you can only join this project __after__ your new M3 project is successfully created, otherwise your default project will be set to ```ws32```, which does not provide any CPU hour allowance. You can join ```ws32``` in the _Join existing projects_ link on [the homepage of the HPC ID system](https://hpc.erc.monash.edu.au/karaage/).
 ![image](https://github.com/user-attachments/assets/94d9a7dd-f01f-4a72-bc55-7361c417d0a3)
 
 Then you can search for the ```ws32``` project.
