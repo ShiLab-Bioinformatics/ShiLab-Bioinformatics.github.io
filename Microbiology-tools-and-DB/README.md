@@ -1,3 +1,5 @@
+# Guide to Using Microbiology Software and Databases on the M3 Cluster
+
 1.About this document
 ----------------------
 This document provides instructions for using the microbiology software tools and databases installed in the M3 computer cluster. You need to create an M3 account, apply for your own M3 project, then you can connect to the M3 cluster and run your analyses using software tools and databases in it. The steps are detailed in sections below.
@@ -16,14 +18,14 @@ More details are provided on [the M3 users manual](https://docs.massive.org.au/M
 ----------------------
 After creating your M3 user account, you need to create a new project for running analyses. Please use [this Google Form](https://docs.google.com/forms/u/2/d/e/1FAIpQLSefDLmIesBaZ_90efzKQytg-2V5mBbSMfM0uW8MiCrgw3QMJg/viewform) for creating an application for creating the project. The "Apply for Project" link in the HPC ID system (https://hpc.erc.monash.edu.au/karaage/) **cannot** be used for applying for new projects in M3.
 
-You should to indicate in the project description that this project is for using the software tools and databases in the ```ws32``` project, which is run by Prof Wei Shi and Yang Liao. If you would like to let Yang to assist for maintaining the data and managing the tasks, you can also indicate that you want to have Yang as a member of this new project.
+You should to indicate in the project description that this project is for using the software tools and databases in the ```ws32``` project, which is run by Prof Wei Shi and Yang Liao. If you would like to let Yang to assist for maintaining the data and managing the tasks, you can also indicate that you want to have Yang as a member of this new project. You can also specify the disk space that you need for storing your data. The space by default is 500GB for the primary data and 500GB for temporary files that are created while running your analysis.
 ![Create a new M3 project](https://github.com/user-attachments/assets/c8fdaea4-600c-41e2-8b2b-2b00485c67b6)
 
 Once your application is submitted, the eResearch team will review your application and give feedback. This is usually done in a few days.
 
 4.Joining the ws32 project
 ----------------------
-You need to join the ```ws32``` project for using the software tools and databases. But you can only join this project __after__ your new M3 project was successfully created, otherwise your default project will be set to ```ws32```, which does not have any CPU hour allowence. You can join ```ws32``` in the _Join existing projects_ link on [the homepage of the HPC ID system](https://hpc.erc.monash.edu.au/karaage/).
+You need to join the ```ws32``` project for using the software tools and databases. But you can only join this project __after__ your new M3 project s successfully created, otherwise your default project will be set to ```ws32```, which does not have any CPU hour allowence. You can join ```ws32``` in the _Join existing projects_ link on [the homepage of the HPC ID system](https://hpc.erc.monash.edu.au/karaage/).
 ![image](https://github.com/user-attachments/assets/94d9a7dd-f01f-4a72-bc55-7361c417d0a3)
 
 Then you can search for the ```ws32``` project.
