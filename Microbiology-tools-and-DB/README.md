@@ -8,7 +8,7 @@ This document provides instructions for using the microbiology software tools an
 ----------------------
 Every user of the mirobiology tools and databases in the M3 computer cluster needs their own M3 account. You can create an M3 account using this website:
   [Create an M3 account](https://hpc.erc.monash.edu.au/karaage/aafbootstrap). 
-You need to login using your Monash account.
+You need to login using your Monash account before you can create an M3 account on this webpage.
 
 You will be required to select a username in the M3 computer and create a password for it. You need to keep this info for connecting to M3 by ```SSH```.
 
